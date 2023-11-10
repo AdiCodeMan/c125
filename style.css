@@ -1,0 +1,29 @@
+body{
+    background-image: "background.webp";
+}
+
+h3
+{
+    background-color: rgb(136, 208, 232);
+    border-width: 5px;
+    border-color: green;
+    width: 900px;
+    height:65px;
+    color:black;
+    border-radius: 30px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#insturction
+{
+    background: lightcoral;
+    width: 700px;
+    height: 40px;
+    padding-top: 6px;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: large;
+}
+    
